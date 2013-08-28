@@ -1,0 +1,16 @@
+
+*.meta
+*.mp3
+*.png
+*.mat
+*.ttf
+
+*~
+*#
+
+/standalones
+
+/Library
+/Temp
+/builds
+/webplayer

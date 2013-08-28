@@ -1,0 +1,35 @@
+# http://answers.unity3d.com/questions/22604/which-unity-project-files-can-be-ignored-for-versi.html
+# http://forum.unity3d.com/threads/69609-Source-Control-w-Free-Unity-ignore-files-%28Git-SVN-CVS%29
+
+# http://unity3d.com/support/documentation/Manual/ExternalVersionControlSystemSupport.html
+
+obj
+Temp
+*.suo
+*.user
+*.pidb
+*.userprefs
+Library
+*.sln
+*.unityproj
+*.csproj
+
+
+# build directories
+webplayer
+standalone*
+builds/
+*.app
+*.apk
+
+*.pyc
+
+# 2D Toolkit generated files
+Assets/-tk2d.*
+Assets/Resources/tk2d/*
+
+# runner stuff
+non_annoying_log.txt
+ios
+settings.json
+*.sublime-workspace
