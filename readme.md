@@ -2,9 +2,9 @@ A unitypackaged mirror of Moq
 
 #Installation
 
-Download unitypackage from XXX
+Download latest unitypackage from https://github.com/tenpn/moq-unitypackage/releases
 
-Install as normal.
+Drag into Unity3D editor window, add everything. Moq will now be available for editor-side tests. 
 
 #Reference
 
